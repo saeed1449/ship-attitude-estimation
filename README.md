@@ -7,4 +7,4 @@ and then try to fix the move by stabilizer.
 2. get data from smartphone by creating UDP code
 3. set the primary value of Kalman
 4. open inf loop and estimate the next value
-5. fix the roll and pich by stabilizer
+5. fix the roll and pitch by stabilizer
